@@ -1,4 +1,5 @@
 Integrate third party libraries by using Cocoapods and Swift Package Manager, store data in the cloud using Firebase Firestore.
+
 Exercising query and sort the Firebase database, use Firebase for user authentication, registration and login.
 
 <img width="407" alt="Screen Shot 2021-10-24 at 16 59 09" src="https://user-images.githubusercontent.com/49111480/138587518-8570a919-4bd5-4766-a5a7-67957eb70014.png">
